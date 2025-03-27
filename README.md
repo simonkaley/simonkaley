@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **simonkaley@gmail.com**
 
-- ⚡ Fun fact **My cat is a black cornish rex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
