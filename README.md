@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A developer from California</h3>
 
-- 🔭 I’m currently working on [Asteroid County](https://asteroid-county.vercel.app/)
-
-- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **simonkaley@gmail.com**
 
